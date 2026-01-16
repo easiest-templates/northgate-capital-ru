@@ -10,17 +10,4 @@
 
 Чтобы использовать шаблон, просто замените тексты и фотографии на свои. Структура понятная — каждый раздел находится в отдельном файле, поэтому легко найти нужное место для редактирования.
 
-## Установка
-
-```bash
-npm install
-npm run dev
-```
-
-## Технологии
-
-- React + TypeScript
-- Tailwind CSS
-- Vite
-
-`"tags": ["landing", "dark", "fintech", "animations"]`
+"tags": ["investment", "finance", "landing", "premium", "dark", "russian", "react", "typescript", "tailwind"]
