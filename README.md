@@ -10,4 +10,4 @@
 
 Чтобы использовать шаблон, просто замените тексты и фотографии на свои. Структура понятная — каждый раздел находится в отдельном файле, поэтому легко найти нужное место для редактирования.
 
-"tags": ["investment", "finance", "landing", "premium", "dark", "russian", "react", "typescript", "tailwind"]
+"tags": ["landing", "dark", "fintech", "testimonials", "animations"]
